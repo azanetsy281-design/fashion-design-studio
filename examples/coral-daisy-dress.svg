@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1190" viewBox="0 0 1600 1190" role="img" aria-labelledby="sheet-title sheet-description">
+  <title id="sheet-title">Coral Daisy Flutter Dress</title>
+  <desc id="sheet-description">Original coral baby dress concept, front on the left and back on the right. Matching round neckline and flutter sleeves, small cream floral print, two front patch pockets, and four cream buttons at the centre-back bodice opening. Editable vector illustration; not a cutting pattern or a validated size.</desc>
+  <defs>
+    <pattern id="fabric-print" width="42" height="42" patternUnits="userSpaceOnUse">
+      <rect width="42" height="42" fill="#E9877F" />
+      <circle cx="17" cy="12" r="4.2" fill="#FFF2DD" opacity="0.85" />
+      <circle cx="23" cy="16" r="4.2" fill="#FFF2DD" opacity="0.85" />
+      <circle cx="21" cy="23" r="4.2" fill="#FFF2DD" opacity="0.85" />
+      <circle cx="13" cy="23" r="4.2" fill="#FFF2DD" opacity="0.85" />
+      <circle cx="10" cy="16" r="4.2" fill="#FFF2DD" opacity="0.85" />
+      <circle cx="17" cy="18" r="3.2" fill="#bc985e" />
+    </pattern>
+  </defs>
+  <rect width="1600" height="1190" fill="#f4f1eb" />
+  <g font-family="Arial, Helvetica, sans-serif" fill="#253a38">
+    <text x="80" y="93" font-size="29" font-weight="600">Coral Daisy Flutter Dress</text>
+    <rect x="80" y="157" width="670" height="875" rx="25" fill="#fffefa" stroke="#dedbd3" stroke-width="2" />
+    <text x="415" y="209" font-size="18" text-anchor="middle" letter-spacing="3">FRONT</text>
+    <rect x="850" y="157" width="670" height="875" rx="25" fill="#fffefa" stroke="#dedbd3" stroke-width="2" />
+    <text x="1185" y="209" font-size="18" text-anchor="middle" letter-spacing="3">BACK</text>
+    <g id="front-view" transform="translate(430, 163.889) scale(1.11111)">
+      <g transform="scale(1.04, 0.94)">
+        <path id="front-body" d="M -70 100 L -145 105 L -230 165 Q -218 247 -168 230 L -155 205 L -270 735 Q 0 747 270 735 L 155 205 L 168 230 Q 218 247 230 165 L 145 105 L 70 100 C 55 180 -55 180 -70 100 Z" fill="url(#fabric-print)" stroke="#263b3b" stroke-width="3" stroke-linejoin="round" />
+        <path d="M 70 100 C 55 180 -55 180 -70 100" fill="none" stroke="#FFF2DD" stroke-width="7" stroke-linejoin="round" />
+        <path d="M -186.46 350 Q 0 360 186.46 350" fill="none" stroke="#FFF2DD" stroke-width="5" />
+        <path d="M -265 722 Q 0 733 265 722" fill="none" stroke="#314743" stroke-width="1.7" stroke-dasharray="5 5" />
+        <path id="front-pocket-left" d="M -135 410 h 65 v 65 q -32 25 -65 0 Z" fill="#FFF2DD" stroke="#263b3b" stroke-width="2" />
+        <path d="M -130 419 h 55" stroke="#5b6c63" fill="none" stroke-width="1.5" />
+        <path id="front-pocket-right" d="M 70 410 h 65 v 65 q -32 25 -65 0 Z" fill="#FFF2DD" stroke="#263b3b" stroke-width="2" />
+        <path d="M 75 419 h 55" stroke="#5b6c63" fill="none" stroke-width="1.5" />
+        <path id="front-flutter-fold-left" d="M -201 179 Q -198 208 -180 223" fill="none" stroke="#A95F5A" stroke-width="1.5" stroke-linecap="round" />
+        <path id="front-flutter-fold-right" d="M 201 179 Q 198 208 180 223" fill="none" stroke="#A95F5A" stroke-width="1.5" stroke-linecap="round" />
+      </g>
+    </g>
+    <g id="back-view" transform="translate(1170, 163.889) scale(1.11111)">
+      <g transform="scale(1.04, 0.94)">
+        <path id="back-body" d="M -70 100 L -145 105 L -230 165 Q -218 247 -168 230 L -155 205 L -270 735 Q 0 747 270 735 L 155 205 L 168 230 Q 218 247 230 165 L 145 105 L 70 100 C 55 135 -55 135 -70 100 Z" fill="url(#fabric-print)" stroke="#263b3b" stroke-width="3" stroke-linejoin="round" />
+        <path d="M 70 100 C 55 135 -55 135 -70 100" fill="none" stroke="#FFF2DD" stroke-width="7" stroke-linejoin="round" />
+        <path d="M -186.46 350 Q 0 360 186.46 350" fill="none" stroke="#FFF2DD" stroke-width="5" />
+        <path d="M -265 722 Q 0 733 265 722" fill="none" stroke="#314743" stroke-width="1.7" stroke-dasharray="5 5" />
+        <g id="back-closure">
+          <path id="back-button-placket" d="M 0 126.25 V 350" fill="none" stroke="#FFF2DD" stroke-width="7" />
+          <g id="back-button-1">
+            <circle cx="0" cy="151" r="6" fill="#FFF2DD" stroke="#344C47" stroke-width="1.5" />
+            <circle cx="-1.4" cy="151" r="0.65" fill="#A7927B" />
+            <circle cx="1.4" cy="151" r="0.65" fill="#A7927B" />
+          </g>
+          <g id="back-button-2">
+            <circle cx="0" cy="209" r="6" fill="#FFF2DD" stroke="#344C47" stroke-width="1.5" />
+            <circle cx="-1.4" cy="209" r="0.65" fill="#A7927B" />
+            <circle cx="1.4" cy="209" r="0.65" fill="#A7927B" />
+          </g>
+          <g id="back-button-3">
+            <circle cx="0" cy="267" r="6" fill="#FFF2DD" stroke="#344C47" stroke-width="1.5" />
+            <circle cx="-1.4" cy="267" r="0.65" fill="#A7927B" />
+            <circle cx="1.4" cy="267" r="0.65" fill="#A7927B" />
+          </g>
+          <g id="back-button-4">
+            <circle cx="0" cy="325" r="6" fill="#FFF2DD" stroke="#344C47" stroke-width="1.5" />
+            <circle cx="-1.4" cy="325" r="0.65" fill="#A7927B" />
+            <circle cx="1.4" cy="325" r="0.65" fill="#A7927B" />
+          </g>
+          <path id="back-skirt-seam" d="M 0 350 V 731" fill="none" stroke="#A95F5A" stroke-width="1.2" opacity="0.65" />
+        </g>
+        <path id="back-flutter-fold-left" d="M -201 179 Q -198 208 -180 223" fill="none" stroke="#A95F5A" stroke-width="1.5" stroke-linecap="round" />
+        <path id="back-flutter-fold-right" d="M 201 179 Q 198 208 180 223" fill="none" stroke="#A95F5A" stroke-width="1.5" stroke-linecap="round" />
+      </g>
+    </g>
+    <text x="80" y="1082" font-size="22">Baby dress concept · A-line silhouette · Soft cotton lawn</text>
+    <circle cx="1220" cy="1076" r="17" fill="#E9877F" stroke="#b9b9ad" stroke-width="1" />
+    <text x="1244" y="1082" font-size="16">#E9877F</text>
+    <circle cx="1375" cy="1076" r="17" fill="#FFF2DD" stroke="#b9b9ad" stroke-width="1" />
+    <text x="1399" y="1082" font-size="16">#FFF2DD</text>
+    <text x="80" y="1143" font-size="18" fill="#68746b">Illustrated design concept · Not a cutting pattern · No fit or measurement validation</text>
+  </g>
+</svg>

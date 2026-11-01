@@ -1,0 +1,14 @@
+interface:
+  display_name: Fashion Design Studio
+  short_description: Original garment concepts with front and back views
+  default_prompt: Use $fashion-design-studio to create an original garment concept
+    with matching front and back views.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
